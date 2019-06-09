@@ -1,14 +1,10 @@
-## 乐淘电商
+## 毒蛇电商
 
-### 移动端
+### 网页版
 
 #### Mui介绍
 
-- bootstrap 也是一个ui框架  响应式的ui框架  兼容不同终端 可以适配pc端 也可以适配  移动端
-- Mui 是一个ui框架 针对移动端开发的ui框架    只能适配移动端（流式布局）
-- 学习官网 http://dev.dcloud.net.cn/mui/
-- 官方文档 http://dev.dcloud.net.cn/mui/ui/
-- 组件展示 http://dcloud.io/hellomui/
+
  
 **特点**
 
