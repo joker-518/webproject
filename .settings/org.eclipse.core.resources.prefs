@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/store/service/serviceImp/UserServiceImp.java=UTF-8
+encoding//src/cn/itcast/store/utils/MailUtils.java=UTF-8
+encoding//src/cn/itcast/store/web/base/BaseServlet.java=UTF-8
+encoding//src/cn/itcast/store/web/servlet/CategoryServlet.java=UTF-8
+encoding//src/cn/itcast/store/web/servlet/IndexServlet.java=UTF-8
+encoding//src/cn/itcast/store/web/servlet/UserServlet.java=UTF-8
+encoding/<project>=UTF-8
